@@ -1,26 +1,6 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+Hi, i'm [**Kaushik Dey**](https://kaushikdey647.github.io/), 
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 you can contact me for internships via [kaushikdey647@gmail.com](mailto:kaushikdey647@gmail.com) or [20cs01043@iitbbs.ac.in](mailto:20cs01043@iitbbs.ac.in)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -45,10 +25,6 @@ Other        5 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  7,982 Karma Points           
@@ -60,8 +36,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kaushikdey647&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
