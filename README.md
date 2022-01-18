@@ -1,39 +1,37 @@
-Hi, i'm [**Kaushik Dey**](https://kaushikdey647.github.io/), 
-  
-- 💼 you can contact me for internships via [kaushikdey647@gmail.com](mailto:kaushikdey647@gmail.com) or [20cs01043@iitbbs.ac.in](mailto:20cs01043@iitbbs.ac.in)
-- 💬 ask me about anything, i am happy to help;
+## Hi there, [**Kaushik**](https://kaushikdey647.github.io/) this side
 
-**languages and tools:**  
+![Visits Badge](https://badges.pufler.dev/visits/Kaushikdey647/kaushikdey647)
+![Years Badge](https://badges.pufler.dev/years/Kaushikdey647)
+![Repos Badge](https://badges.pufler.dev/repos/Kaushikdey647)
+![Updated Badge](https://badges.pufler.dev/updated/Kaushikdey647/kaushikdey647)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>\
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>\
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- 🎓 A Computer Science Undergraduate
+- 💼 Contact me via [kaushikdey647@gmail.com](mailto:kaushikdey647@gmail.com) or [20cs01043@iitbbs.ac.in](mailto:20cs01043@iitbbs.ac.in)
+- 💬 ask me about anything, i am happy to help... If I can :)
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   28 hrs 48 mins  ████████████████████████▒   96.92 % 
-HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-TypeScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-```
-<!--END_SECTION:waka-->
+### I Work With:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"  width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="25" height="25"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" width="25" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  width="25" height="25" />
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+### Twitter
+<p align = "center"><a href="https://twitter.com/kaydee647"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=kaydee647&layout=wide&show_reply=off&show_border=on" alt="github-readme-twitter"></a></p>
 
 
-📈 my github stats
+### Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kaushikdey647&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kaushikdey647&show_icons=true&theme=gotham" alt="kaushikdey" />
+
+
+
+
