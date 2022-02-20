@@ -1,6 +1,6 @@
 ## Hi there, [**Kaushik**](https://kaushikdey647.github.io/) this side
 
-![Visits Badge](https://badges.pufler.dev/visits/Kaushikdey647/kaushikdey647)
+<!-- ![Visits Badge](https://badges.pufler.dev/visits/Kaushikdey647/kaushikdey647) -->
 ![Years Badge](https://badges.pufler.dev/years/Kaushikdey647)
 ![Repos Badge](https://badges.pufler.dev/repos/Kaushikdey647)
 ![Updated Badge](https://badges.pufler.dev/updated/Kaushikdey647/kaushikdey647)
