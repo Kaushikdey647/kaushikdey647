@@ -1,5 +1,7 @@
 ## Hi there, [**Kaushik**](https://kaushikdey647.github.io/) this side
 
+<img src="https://github.com/Kaushikdey647/Kaushikdey647.github.io/raw/main/assets/images/background/slide-02.jpg" alt="meee" width="100%"/>
+
 <!-- ![Visits Badge](https://badges.pufler.dev/visits/Kaushikdey647/kaushikdey647) -->
 ![Years Badge](https://badges.pufler.dev/years/Kaushikdey647)
 ![Repos Badge](https://badges.pufler.dev/repos/Kaushikdey647)
