@@ -2,11 +2,6 @@
 
 <img src="https://github.com/Kaushikdey647/Kaushikdey647.github.io/raw/main/assets/images/background/slide-02.jpg" alt="meee" width="100%"/>
 
-<!-- ![Visits Badge](https://badges.pufler.dev/visits/Kaushikdey647/kaushikdey647) -->
-![Years Badge](https://badges.pufler.dev/years/Kaushikdey647)
-![Repos Badge](https://badges.pufler.dev/repos/Kaushikdey647)
-![Updated Badge](https://badges.pufler.dev/updated/Kaushikdey647/kaushikdey647)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)
 
 - 🎓 A Computer Science Undergraduate
 - 💼 Contact me via [kaushikdey647@gmail.com](mailto:kaushikdey647@gmail.com) or [20cs01043@iitbbs.ac.in](mailto:20cs01043@iitbbs.ac.in)
