@@ -1,8 +1,5 @@
 ## Hi there, [**Kaushik**](https://kaushikdey647.github.io/) this side
 
-<img src="https://github.com/Kaushikdey647/Kaushikdey647.github.io/raw/main/assets/images/background/slide-02.jpg" alt="meee" width="100%"/>
-
-
 - 🎓 A Computer Science Undergraduate
 - 💼 Contact me via [kaushikdey647@gmail.com](mailto:kaushikdey647@gmail.com) or [20cs01043@iitbbs.ac.in](mailto:20cs01043@iitbbs.ac.in)
 - 💬 ask me about anything, i am happy to help... If I can :)
