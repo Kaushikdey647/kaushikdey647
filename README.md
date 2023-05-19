@@ -2,7 +2,6 @@
 
 - 🎓 A Computer Science Undergraduate
 - 💼 Contact me via [kaushikdey647@gmail.com](mailto:kaushikdey647@gmail.com) or [20cs01043@iitbbs.ac.in](mailto:20cs01043@iitbbs.ac.in)
-- 💬 ask me about anything, i am happy to help... If I can :)
 
 ### I Work With:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
