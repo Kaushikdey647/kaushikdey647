@@ -1,7 +1,3 @@
-## Hi there, [**Kaushik**](https://kaushikdey647.github.io/) this side
-
-- 🎓 A Computer Science Undergraduate
-
 ### I Work With:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"  width="50" height="50"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"   width="50" height="50"/>
