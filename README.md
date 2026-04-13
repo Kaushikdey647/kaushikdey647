@@ -1,4 +1,4 @@
 - I love python but I try with other stuff too, to the best of my ability
-- I hope the stars are non-zero by the time you're reading this ![GitHub User's stars](https://img.shields.io/github/stars/Kaushikdey647).
+- I hope the stars are non-zero by the time you're reading this:      ![GitHub User's stars](https://img.shields.io/github/stars/Kaushikdey647)
 - I love building stuff from scratch, especially since cursor came around.
 - I love tweaking what I built before. (tweaks can vary from changing README to changing the language)
